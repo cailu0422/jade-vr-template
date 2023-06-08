@@ -1,2 +1,2 @@
 # jade-vr-template
-vite+react template
+vite+react+typescript+tailwindcss template
